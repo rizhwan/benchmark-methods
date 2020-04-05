@@ -2,9 +2,9 @@
 Benchmark methods, test how long each method take to excute. Test each method as 100s or even million times.
 
 ## Minimum platform versions that supported
-.NET Core 1.0
-.NET Framework 4.5 
-Mono 4.6
+.NET Core 1.0  
+.NET Framework 4.5  
+Mono 4.6  
 
 # How to use
 
@@ -17,3 +17,4 @@ var result2 = benchmark.AddMethod(() => ReverseCharacters.WithFramework(_randomS
  ```
 ## Note
 Even Though the library written for .NET Standard 1.0, the sample test written on .net core 3.0.
+https://docs.microsoft.com/en-us/dotnet/standard/net-standard#net-implementation-support
