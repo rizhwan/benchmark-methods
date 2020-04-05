@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>Rizhwan</Authors>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <Owners>Rizhwan</Owners>
+    <Summary>Benchmark C# methods</Summary>
+    <Description>Benchmark C# methods</Description>
+  </PropertyGroup>
+
+</Project>
