@@ -1,5 +1,5 @@
 # benchmark-methods
-Benchmark methods, test how long each method take to excute. Test each method as 100s or even million times.
+Test how long each method take to execute. Testas 100s or even million times.
 
 ## Minimum platform versions that supported
 .NET Core 1.0  
